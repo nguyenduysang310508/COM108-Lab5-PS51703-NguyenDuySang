@@ -7,7 +7,7 @@
 ---
 
 ### Lần 1: Bài 1
-- Trạng thái: Chờ Chấm
+- Trạng thái: Chờ chấm
 - Ghi chú:  
 
 ### Lần 2: Bài 1
@@ -16,7 +16,8 @@
 
 ### Lần 3: Bài 2
 - Trạng thái: 
-- Lỗi/Cách sửa: 
+- Lỗi/Cách sửa: Error: Process completed with exit code 1.
+hỏi AI giúp sửa
 
 ### Lần 4: Bài 2
 - Trạng thái: 
