@@ -7,8 +7,8 @@
 ---
 
 ### Lần 1: Bài 1
-- Trạng thái: Chờ chấm
-- Ghi chú: 
+- Trạng thái: Chờ Chấm
+- Ghi chú:  
 
 ### Lần 2: Bài 1
 - Trạng thái: 
